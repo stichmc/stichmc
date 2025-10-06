@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Michael Stich</h1>
+<h3 align="center">Software engineer with 3 years of professional work experience</h3>
 
-<!--
-**stichmc/stichmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/mcstich" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2b7fff?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mcstich.com/Michael_Stich_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-efb100?style=for-the-badge" />
+  </a>
+  <a href="mailto:mcstich@oulook.com">
+    <img src="https://img.shields.io/badge/Email-00bba7?style=for-the-badge" />
+  </a>
+  <a href="https://mcstich.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ec003f?style=for-the-badge" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I build and scale applications for large user bases across the entire stack: frontend, backend, and cloud. I'm very passionate about solving complex problems and working with extraordinary people.
+
+---
