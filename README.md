@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Michael Stich</h1>
-<h3 align="center">Software engineer with 3 years of professional work experience</h3>
+<h3 align="center">A software engineer with 3 years of professional work experience</h3>
 
 <p align="center">
   <a href="https://mcstich.com" target="_blank">
